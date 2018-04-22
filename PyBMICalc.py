@@ -226,7 +226,7 @@ def print_bmi_en():
 
 #CODE
 
-print("""BMICalc - 2018
+print("""PyBMICalc - 2018
 """)
 
 lang()
