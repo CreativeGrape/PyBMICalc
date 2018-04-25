@@ -14,7 +14,7 @@ en_again = "Try again!"
 again = "Try again! / Spróbuj ponownie!"
 
 lg_input = "English[EN]/ Polski[PL]: "
-pl_uni_input = "Metryczny[M]/ Imperialny[I]/: "
+pl_uni_input = "Metryczny[M]/ Imperialny[I]: "
 en_uni_input = "Metric[M]/ Imperial[I]: "
 
 pl_wm = "Waga[kg]: "
