@@ -200,7 +200,6 @@ def print_bmi_pl():
 def print_bmi_en():
     print(en_bmi_print_dialog + "%.2f" % (bmi))
     (summary_en())
-
 #CODE
 print("""PyBMICalc - 2018
 """)
@@ -229,6 +228,10 @@ elif uni == "i":
 if lg == "pl":
     print_bmi_pl()
     print(pl_list)
+    input("""
+Naciśnij enter by wyjść. """)
 elif lg == "en":
     print_bmi_en()
     print(en_list)
+    input("""
+Press enter to exit. """)
